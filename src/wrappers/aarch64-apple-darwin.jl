@@ -14,7 +14,7 @@ function __init__()
     JLLWrappers.@generate_init_header(PROJ_jll, Libtiff_jll, LibCURL_jll)
     JLLWrappers.@init_library_product(
         libgeotiff,
-        "lib/libgeotiff.5.1.0.dylib",
+        "lib/libgeotiff.5.2.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
