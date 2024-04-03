@@ -1,11 +1,11 @@
 [[libgeotiff]]
 arch = "aarch64"
-git-tree-sha1 = "fd310a3e897bfac419f62e4f044f797fc3de8a5f"
+git-tree-sha1 = "489fa18df8a1830b17f63af4df72a6ef7a457245"
 os = "macos"
 
     [[libgeotiff.download]]
-    sha256 = "bdc2156c2193532474f64aa9aeb253818e4a1ed061bcc46f613c6860634e8d99"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.aarch64-apple-darwin.tar.gz"
+    sha256 = "b633f4c462c259a9b994e40c83c7833be0e4dbda018d8b08f4de28a8f8ff091a"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.aarch64-apple-darwin.tar.gz"
 [[libgeotiff]]
 arch = "aarch64"
 git-tree-sha1 = "85bd2ce419c4bc0ffd7ff22a82216b6c07c70007"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "f0052cf7635c4967a153450ffb42dc056e948d643195ef41ba1290bb3f541e71"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.aarch64-linux-gnu.tar.gz"
 [[libgeotiff]]
 arch = "aarch64"
 git-tree-sha1 = "fa43eef974391b702db7f2e78c510169a412d40e"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "0c39a50464bde59b2b6d8e111ff6684306034da8a6bc40e2d16b676293737fb0"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.aarch64-linux-musl.tar.gz"
 [[libgeotiff]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -33,7 +33,7 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "fc8f9fa6c919b1561600b0d838801637965180f0d316a5e7a3037f47f492468d"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.armv6l-linux-gnueabihf.tar.gz"
 [[libgeotiff]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -43,7 +43,7 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "1d2565e83007329119a7b2663f67d5a4c62c6b0a5e8e2aaeb4f0592e7ac086e0"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.armv6l-linux-musleabihf.tar.gz"
 [[libgeotiff]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -53,7 +53,7 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "dd1f346e538427cf4be6b5cc3f6d290a38b29b5737ec2014be0f98437ea81e23"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.armv7l-linux-gnueabihf.tar.gz"
 [[libgeotiff]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -63,16 +63,16 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "54b5baec6c0fea5419cbf8fefee607bda9b393d751f46f115ada80583945ffc0"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.armv7l-linux-musleabihf.tar.gz"
 [[libgeotiff]]
 arch = "i686"
-git-tree-sha1 = "89dfe2c5841deedf4371e87d4382a82fe052a36d"
+git-tree-sha1 = "f5f9a513eff479d754c8e3bb3b905db3bb51e40b"
 libc = "glibc"
 os = "linux"
 
     [[libgeotiff.download]]
-    sha256 = "2ed7e500c7211363905e8fca9e4c4bb7c9b66901ba0b8c377b12e01510f3c66a"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.i686-linux-gnu.tar.gz"
+    sha256 = "4e7b279e34b1bb02aa20716a722ced34dc585e4f09dde1ef18053b369557597e"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.i686-linux-gnu.tar.gz"
 [[libgeotiff]]
 arch = "i686"
 git-tree-sha1 = "a350132959805a6e57cafe44bf3859d703fb6edb"
@@ -81,15 +81,15 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "a4ccbd9ac51bab98589025237930834ce4e9dee4818dafb9762014ebb435e180"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.i686-linux-musl.tar.gz"
 [[libgeotiff]]
 arch = "i686"
-git-tree-sha1 = "833d445fb9cc82c4304fe5c0d964be7979937c00"
+git-tree-sha1 = "26daf123142bfa0a150c1cc30484591b7cfaf5d4"
 os = "windows"
 
     [[libgeotiff.download]]
-    sha256 = "8b447346dd7790f1d13ad6cba5fd67f97e6b4638ebe5b9d0700dc791c75444ea"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.i686-w64-mingw32.tar.gz"
+    sha256 = "36cf695cd25ee69832e0e5fb836cf39e056d4d29440969fb1aa8e79dcc9001dc"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.i686-w64-mingw32.tar.gz"
 [[libgeotiff]]
 arch = "powerpc64le"
 git-tree-sha1 = "291dc21aefb07f0264e1f07d1e2191338c53275c"
@@ -98,15 +98,15 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "8556c3aacce2b8d5b33b2f8d3395ef7aa53f57440bda39a8daeb4241bd18e9e5"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.powerpc64le-linux-gnu.tar.gz"
 [[libgeotiff]]
 arch = "x86_64"
-git-tree-sha1 = "3962291b666e00c4b267635e779ed9481f39bf51"
+git-tree-sha1 = "e6ebc3754649ff7f5d6658a655a79359528a75d5"
 os = "macos"
 
     [[libgeotiff.download]]
-    sha256 = "b3b4683c59a39b7822ffa0c2ab076bbfeecb3450525c98e649469a5e222b9e80"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.x86_64-apple-darwin.tar.gz"
+    sha256 = "fd99b9b0dfd7837c9de8c6f07769f453b608a9d0516385e91d214dc0d45982d8"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.x86_64-apple-darwin.tar.gz"
 [[libgeotiff]]
 arch = "x86_64"
 git-tree-sha1 = "0fb63fd1bc087e100b8ed561afc27bb6fd724227"
@@ -115,7 +115,7 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "e216de423b5bb177e0dab1f1a99ca50b1f3fb34c0c5feacb8b53b82d2cff5763"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.x86_64-linux-gnu.tar.gz"
 [[libgeotiff]]
 arch = "x86_64"
 git-tree-sha1 = "1635de7c7aa6ee5dc45d88e1908f3b2059f42e08"
@@ -124,20 +124,20 @@ os = "linux"
 
     [[libgeotiff.download]]
     sha256 = "a10f4cb0bc3a9a1486729d861253c67c949ca0010ad9f30c86392e2a754faf95"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.x86_64-linux-musl.tar.gz"
 [[libgeotiff]]
 arch = "x86_64"
-git-tree-sha1 = "bbae3b3cf32caee1294cc1e1e48bb95acd66e115"
+git-tree-sha1 = "92888720d658501ad2b78d122ea1441c59f845cb"
 os = "freebsd"
 
     [[libgeotiff.download]]
-    sha256 = "820e4fadc856d034518db599efb67697f9d54037cf3ec883908074b2fe689234"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "47deb950d6bae9e9946f61d87c2d2abb3c278fa99af84560a3ea477b9365f808"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.x86_64-unknown-freebsd.tar.gz"
 [[libgeotiff]]
 arch = "x86_64"
-git-tree-sha1 = "d4d770067e49c2f94786c90bc3b7d958b497d63e"
+git-tree-sha1 = "356b5bdc540243e0fadea8d16f948dc26c1f6eeb"
 os = "windows"
 
     [[libgeotiff.download]]
-    sha256 = "75d865ee8b947560293c5367ce3d4b23f4b94a6749c55c76836e82228d7d29ba"
-    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+0/libgeotiff.v100.701.100.x86_64-w64-mingw32.tar.gz"
+    sha256 = "ec9d71800b2c000ba3a7ef348be1ffc364ed5139d0bfb5aaeee428f4f68dd4b2"
+    url = "https://github.com/JuliaBinaryWrappers/libgeotiff_jll.jl/releases/download/libgeotiff-v100.701.100+1/libgeotiff.v100.701.100.x86_64-w64-mingw32.tar.gz"
