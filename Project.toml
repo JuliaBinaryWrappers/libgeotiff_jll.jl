@@ -1,6 +1,6 @@
 name = "libgeotiff_jll"
 uuid = "06c338fa-64ff-565b-ac2f-249532af990e"
-version = "100.702.300+0"
+version = "100.702.301+0"
 
 [deps]
 PROJ_jll = "58948b4f-47e0-5654-a9ad-f609743f8632"
@@ -13,12 +13,12 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-JpegTurbo_jll = "3.0.1"
+JpegTurbo_jll = "3.1.1"
 LibCURL_jll = "7.73,8"
-PROJ_jll = "902.500"
+PROJ_jll = "902.500.100"
 Zlib_jll = "1.2.12"
 Libdl = "< 0.0.1, 1"
-Libtiff_jll = "4.7"
+Libtiff_jll = "4.7.1"
 Artifacts = "< 0.0.1, 1"
