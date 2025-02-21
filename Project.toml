@@ -1,6 +1,6 @@
 name = "libgeotiff_jll"
 uuid = "06c338fa-64ff-565b-ac2f-249532af990e"
-version = "100.702.301+0"
+version = "100.702.400+0"
 
 [deps]
 PROJ_jll = "58948b4f-47e0-5654-a9ad-f609743f8632"
